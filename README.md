@@ -1,1 +1,1 @@
-# agro-managment-system
+# Smart Agro Monitoring System
